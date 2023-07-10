@@ -22,10 +22,12 @@
 
     <div class="container-first">
         <h1><span>INSPIRATION CARS</span></h1>
+        <a href="produits.php">
         <div class="container-btns">
           <button class="btn-first b1">Réservez maintenant</button>
           
       </div>
+     </a>
     </div>
     
 

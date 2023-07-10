@@ -22,18 +22,24 @@
 
     <div class="container-first">
         <h1><span>INSPIRATION CARS</span></h1>
+        <a href="productsf.php">
         <div class="container-btns">
           <button class="btn-first b1">Réservez maintenant</button>
-          
+        </a>
       </div>
     </div>
     
 
     <ul class="medias">
+        <a href="https://www.facebook.com/">
         <li class="bulle"><img src="fb.svg" class="logo-medias"></li>
+        </a>
+        <a href="https://www.instagram.com/">
         <li class="bulle"><img src="insta.svg" class="logo-medias"></li>
+        </a>
+        <a href="https://www.youtube.com/">
         <li class="bulle"><img src="yt.svg" class="logo-medias"></li>
-        
+        </a>
     </ul>
     <footer>
 

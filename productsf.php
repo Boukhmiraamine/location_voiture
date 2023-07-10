@@ -13,7 +13,7 @@
         <h1>D & A WHEELS</h1>
         <div class="onglets">
             <a href="index.php" target="_self">Home</a>
-            <a href="productsf.php">Nos catégories</a>
+            <a href="productsf.php">Nos produits</a>
             <a href="#A propos">A propos</a>
             <a href="Login.php">Login</a> 
         
